@@ -7,7 +7,6 @@
 - 学生向け　プログラミングコンテスト CODE RUNNER 2015  
     - https://coderunner.jp/trial.html
 - [とほほのBootstrap入門](http://www.tohoho-web.com/ex/bootstrap.html)
-
-
-
+- [ソラリス IoT向けデバイス向けSIM](https://soracom.jp/)
+- [カタログIPオープン化プロジェクト](http://open.channel.or.jp/)
 
