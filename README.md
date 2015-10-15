@@ -15,7 +15,7 @@
 - 毎日の作業は最後にPushする
 
 ## 講義資料
-- [1回目]()
+- [1回目](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B401%E5%9B%9E%E7%9B%AE)
 
 # リンク
 - 新卒向けのITエンジニア就活用サービス paiza新卒
