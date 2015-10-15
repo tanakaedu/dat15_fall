@@ -5,7 +5,8 @@
 - paizaの新卒の紹介
     - http://paiza.jp/student
 - Unity UNET関連
-    - [凹みTips](http://tips.hecomi.com/entry/2015/08/14/220030)
+    - [ひよこのたまご 【Unity9】UNETでマルチプレイヤーなオンラインゲーム開発【UNET1】](http://hiyotama.hatenablog.com/entry/2015/07/06/153000)
+    - [凹みTips Unity 5.1 から導入された新しいネットワーク機能の UNET について詳しく調べてみた](http://tips.hecomi.com/entry/2015/08/14/220030)
 
 # 1年生後期
 - UnityのSpaceShooterを全員で改良する
