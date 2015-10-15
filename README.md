@@ -14,14 +14,8 @@
 - UnityのSpaceShooterを全員で改良する
 - 毎日の作業は最後にPushする
 
-## 1回目
-- dat15-spaceshooter のチームに参加
-    - GitHubのIDを申告
-    - GitHubからメールが届く。メールの真ん中ぐらいにある「To join dat15-spaceshooter, follow this link: 」というメッセージの下のリンクをクリックして、チームに参加する
-- 以上でdat15-spaceshooterという組織のチームに登録完了。dat15-spaceshooterが持つリポジトリをクローンする
-- 追加案をプレゼンテーション
-- 自分の作業内容をwikiにページを作成して解説
-- 各自、作業内容をIssueに登録
+## 講義資料
+- [1回目]()
 
 # リンク
 - 新卒向けのITエンジニア就活用サービス paiza新卒
