@@ -7,6 +7,8 @@
 - Unity UNET関連
     - [ひよこのたまご 【Unity9】UNETでマルチプレイヤーなオンラインゲーム開発【UNET1】](http://hiyotama.hatenablog.com/entry/2015/07/06/153000)
     - [凹みTips Unity 5.1 から導入された新しいネットワーク機能の UNET について詳しく調べてみた](http://tips.hecomi.com/entry/2015/08/14/220030)
+- Unity UNET のLAN内サーバーへの自動接続
+  - http://am1tanaka.hatenablog.com/entry/2015/10/09/005346
 - Leaflet JavaScriptの軽量地図描画ライブラリー
   - http://leafletjs.com/
 
