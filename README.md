@@ -26,6 +26,8 @@
 # リンク
 - 新卒向けのITエンジニア就活用サービス paiza新卒
     - http://paiza.jp/student
+- PHP学習環境 paiza learning
+  - https://paiza.jp/learning
 - 学生向け　プログラミングコンテスト CODE RUNNER 2015  
     - https://coderunner.jp/trial.html
 - [とほほのBootstrap入門](http://www.tohoho-web.com/ex/bootstrap.html)
