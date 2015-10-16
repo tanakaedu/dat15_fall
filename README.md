@@ -11,8 +11,9 @@
   - http://leafletjs.com/
 
 # 1年生後期
-- UnityのSpaceShooterを全員で改良する
-- 毎日の作業は最後にPushする
+- UnityのSpaceShooterを完成させる
+- UnityのSpaceShooterを改良する
+- 毎日の最後に作業をPushする
 
 ## 講義資料
 - [1回目](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B401%E5%9B%9E%E7%9B%AE)
