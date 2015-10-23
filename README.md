@@ -11,6 +11,7 @@
     - [External Tools]タブの[External Script Editor]を[MonoDevelop]に変更
 - [Unity公式Blog. Unityインターハイ2015が開催されました！](http://blogs.unity3d.com/jp/2015/10/06/unity-inter-high-school2015/)
 - [Unity公式Blog. Unityのサービスが、わずか数クリック先でお待ちしています](http://blogs.unity3d.com/jp/2015/09/10/unity-services-are-just-a-few-clicks-away/)
+- [Unity県人会議](https://kenjin.unity3d.jp/)
 
 
 # 2年生後期
