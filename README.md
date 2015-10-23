@@ -36,10 +36,11 @@
 - 毎日の最後に作業をPushする
 
 ## 講義資料
+- 3回目：SpaceShooterのチーム開発
+- [2回目](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B402%E5%9B%9E%E7%9B%AE)
 - 1回目:Space Shooterを完成させる
   - [ゲーム終了とゲームの構築](https://github.com/tanakaedu/SpaceShooterTutorial/wiki/%E6%89%8B%E9%A0%863_2:%E7%B5%82%E4%BA%86%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E6%A7%8B%E7%AF%89)
   - [敵、更なる障害物、背景のスクロールなど](http://unity3d.com/jp/learn/tutorials/modules/intermediate/live-training-archive/extending-space-shooter?playlist=17147)
-- [2回目](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B402%E5%9B%9E%E7%9B%AE)
 
 # リンク
 - 新卒向けのITエンジニア就活用サービス paiza新卒
