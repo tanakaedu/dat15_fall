@@ -1,6 +1,15 @@
 # dat15_fall
 2015年度秋学期の関連情報。
 
+- [AUTOMATON. News:わずか3人の開発者が手がける新作ゲーム『Prey for the Gods』が正式発表。国内外で雪原版「ワンダと巨像」の評、エンジンにはUnity使用](http://jp.automaton.am/articles/newsjp/no-matter-studios-announced-prey-for-the-god/)
+- [Unity公式Blog. MonoDevelop5.9ベータ版](http://blogs.unity3d.com/jp/2015/10/22/monodevelop-roadmap/)
+  - http://www.monodevelop.com/download/ から、Windowsの[GTK# for .NET]のリンクを開いて、ダウンロードしてインストール
+  - Windows版を[ダウンロード](http://forum.unity3d.com/threads/monodevelop-unity-5-9-preview-release.350016/)して解凍
+  - 解凍したフォルダーをCドライブの[Program Files]>[Unity]フォルダー内に上書きコピー
+  - Unityを起動して、[Edit]メニューの[Preferences...]を開く
+  - [External Tools]タブの[External Script Editor]を[MonoDevelop]に変更
+- [Unity公式Blog. Unityインターハイ2015が開催されました！](http://blogs.unity3d.com/jp/2015/10/06/unity-inter-high-school2015/)
+
 # 2年生後期
 - paizaの新卒の紹介
     - http://paiza.jp/student
