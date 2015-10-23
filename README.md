@@ -12,7 +12,7 @@
   - 問題：MonoDevelop以外のツールとのコピー&ペーストのやりとりができなくなることがある
     - 解決策：http://answers.unity3d.com/questions/585997/monodevelop-401-copy-paste-issue.html
     - Windowsのプログラムのアンインストールで、gtk# for .NET をアンインストールする
-    - [Program files(x86)]>[GtkSharp]フォルダーを削除
+    - [Program files(x86)]>[GtkSharp]フォルダーを削除(このフォルダーに古いデータが残っているのが不具合の原因)
     - 最新版のGtk# for .NETをインストール
 - [Unity公式Blog. Unityインターハイ2015が開催されました！](http://blogs.unity3d.com/jp/2015/10/06/unity-inter-high-school2015/)
 - [Unity公式Blog. Unityのサービスが、わずか数クリック先でお待ちしています](http://blogs.unity3d.com/jp/2015/09/10/unity-services-are-just-a-few-clicks-away/)
