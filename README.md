@@ -1,23 +1,8 @@
 # dat15_fall
 2015年度秋学期の関連情報。
 
-- [AUTOMATON. News:わずか3人の開発者が手がける新作ゲーム『Prey for the Gods』が正式発表。国内外で雪原版「ワンダと巨像」の評、エンジンにはUnity使用](http://jp.automaton.am/articles/newsjp/no-matter-studios-announced-prey-for-the-god/)
-- [Unity公式Blog. MonoDevelop5.9ベータ版](http://blogs.unity3d.com/jp/2015/10/22/monodevelop-roadmap/)
-  - 起動が速く、日本語入力も問題なくなった。問題がなければvsと置き換えてよさそう
-    - http://www.monodevelop.com/download/ から、Windowsの[GTK# for .NET]のリンクを開いて、ダウンロードしてインストール
-    - Windows版を[ダウンロード](http://forum.unity3d.com/threads/monodevelop-unity-5-9-preview-release.350016/)して解凍
-    - 解凍したフォルダーをCドライブの[Program Files]>[Unity]フォルダー内に上書きコピー
-    - Unityを起動して、[Edit]メニューの[Preferences...]を開く
-    - [External Tools]タブの[External Script Editor]を[MonoDevelop]に変更
-  - 問題：MonoDevelop以外のツールとのコピー&ペーストのやりとりができなくなることがある
-    - 解決策：http://answers.unity3d.com/questions/585997/monodevelop-401-copy-paste-issue.html
-    - Windowsのプログラムのアンインストールで、gtk# for .NET をアンインストールする
-    - [Program files(x86)]>[GtkSharp]フォルダーを削除(このフォルダーに古いデータが残っているのが不具合の原因)
-    - 最新版のGtk# for .NETをインストール
-- [Unity公式Blog. Unityインターハイ2015が開催されました！](http://blogs.unity3d.com/jp/2015/10/06/unity-inter-high-school2015/)
-- [Unity公式Blog. Unityのサービスが、わずか数クリック先でお待ちしています](http://blogs.unity3d.com/jp/2015/09/10/unity-services-are-just-a-few-clicks-away/)
-- [Unity県人会議](https://kenjin.unity3d.jp/)
-
+- [Unity公式サイトニュース 就活生・若手開発者向け開発コンテスト 『ゲームクリエイター就職大作戦2015』 プレゼン発表会結果発表](http://japan.unity3d.com/blog/news/?p=4453)
+- [2015/10/23 ニュース](https://github.com/tanakaedu/dat15_fall/wiki/2015-10-23%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9)
 
 # 2年生後期
 - paizaの新卒の紹介
