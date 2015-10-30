@@ -10,6 +10,7 @@
 - [2015/10/23 ニュース](https://github.com/tanakaedu/dat15_fall/wiki/2015-10-23%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9)
 
 # 2年生後期
+- 各自、作品展向け作業
 - paizaの新卒の紹介
     - http://paiza.jp/student
 - Unity UNET関連
@@ -26,7 +27,7 @@
 - 毎日の最後に作業をPushする
 
 ## 講義資料
-- 3回目：SpaceShooterのチーム開発
+- 3-4回目：SpaceShooterのチーム開発
   - [手順](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B403%E5%9B%9E%E7%9B%AE)
 - 2回目
   - SpaceShooterの開発続き
