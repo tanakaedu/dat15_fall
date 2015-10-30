@@ -27,6 +27,10 @@
 - 毎日の最後に作業をPushする
 
 ## 講義資料
+- [spaceshooter開発用リポジトリ](https://github.com/dat15-spaceshooter/spaceshooter)
+
+----
+
 - 4回目：SpaceShooterのチーム開発(2)
   - [手順](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B404%E5%9B%9E%E7%9B%AE)
 - 3回目：SpaceShooterのチーム開発
