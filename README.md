@@ -31,19 +31,18 @@
 
 ----
 
-- 5回目：SpaceShooter仕上げ
+- 4回目：SpaceShooter仕上げ
+  - TortoiseGitとGitのバージョンアップ
   - ドキュメント>Unity Projectsフォルダー内のspaceshooterを一度削除
   - https://github.com/dat15-spaceshooter/spaceshooter.git をコピー
   - Unity Projectsフォルダー内を右クリック>Git Cloneを選択
   - [OK]を押して、クローン
   - クローンが完了したら、プロジェクトフォルダーを右クリック>TortoiseGit>Switch Branchで自分のブランチを選択
   - ウィンドウの左の[Merge]ボタンを押す
-- 4回目：SpaceShooterのチーム開発(2)
+- 3回目：SpaceShooterのチーム開発(2)
   - [手順](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B404%E5%9B%9E%E7%9B%AE)
-- 3回目：SpaceShooterのチーム開発
+- 2回目：SpaceShooterのチーム開発
   - [手順](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B403%E5%9B%9E%E7%9B%AE)
-- 2回目
-  - SpaceShooterの開発続き
 - 1回目:Space Shooterを完成させる
   - [ゲーム終了とゲームの構築](https://github.com/tanakaedu/SpaceShooterTutorial/wiki/%E6%89%8B%E9%A0%863_2:%E7%B5%82%E4%BA%86%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E6%A7%8B%E7%AF%89)
   - [敵、更なる障害物、背景のスクロールなど](http://unity3d.com/jp/learn/tutorials/modules/intermediate/live-training-archive/extending-space-shooter?playlist=17147)
