@@ -37,8 +37,9 @@
 ----
 
 - 4回目：GitとGitHubについて / SpaceShooter作業
-  - [GitHub Desktopのインストール](https://desktop.github.com/)
-  - [WinMergeのインストール](http://www.geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html)
+  - [インストール手順](http://am1tanaka.hatenablog.com/entry/2015/11/06/130120)
+    - [GitHub Desktop](https://desktop.github.com/)
+    - [WinMerge](http://www.geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html)
   - [サルでも分かるGit入門](http://www.backlog.jp/git-guide/intro/intro1_1.html)
   - 最新版のmasterを自分のプロジェクトに結合
     - プロジェクトをコミットしてプッシュ
