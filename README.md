@@ -1,13 +1,18 @@
 # dat15_fall
 2015年度秋学期の関連情報。
 
-- [Unity公式サイトニュース 就活生・若手開発者向け開発コンテスト 『ゲームクリエイター就職大作戦2015』 プレゼン発表会結果発表](http://japan.unity3d.com/blog/press/20151014)
-- [Unity県人会議 バンダイナムコ　カタログIPオープン化プロジェクトGameJam](https://kenjin.unity3d.jp/events/show/274)
+- [Unity県人会議イベント一覧](https://kenjin.unity3d.jp/events)
 
 ----
 
-- [Unity県人会議イベント一覧](https://kenjin.unity3d.jp/events)
+
+## 2015/10/30
+- [Unity公式サイトニュース 就活生・若手開発者向け開発コンテスト 『ゲームクリエイター就職大作戦2015』 プレゼン発表会結果発表](http://japan.unity3d.com/blog/press/20151014)
+- [Unity県人会議 バンダイナムコ　カタログIPオープン化プロジェクトGameJam](https://kenjin.unity3d.jp/events/show/274)
+
+## 2015/10/23
 - [2015/10/23 ニュース](https://github.com/tanakaedu/dat15_fall/wiki/2015-10-23%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9)
+
 
 # 2年生後期
 - 各自、作品展向け作業
@@ -31,7 +36,9 @@
 
 ----
 
-- 4回目：SpaceShooter仕上げ
+- 4回目：GitとGitHubについて / SpaceShooter作業
+  - [GitHub Desktopのインストール](https://desktop.github.com/)
+  - [サルでも分かるGit入門](http://www.backlog.jp/git-guide/intro/intro1_1.html)
   - TortoiseGitとGitのバージョンアップ
   - ドキュメント>Unity Projectsフォルダー内のspaceshooterを一度削除
   - https://github.com/dat15-spaceshooter/spaceshooter.git をコピー
