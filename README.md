@@ -40,13 +40,9 @@
   - [GitHub Desktopのインストール](https://desktop.github.com/)
   - [WinMergeのインストール](http://www.geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html)
   - [サルでも分かるGit入門](http://www.backlog.jp/git-guide/intro/intro1_1.html)
-  - TortoiseGitとGitのバージョンアップ
-  - ドキュメント>Unity Projectsフォルダー内のspaceshooterを一度削除
-  - https://github.com/dat15-spaceshooter/spaceshooter.git をコピー
-  - Unity Projectsフォルダー内を右クリック>Git Cloneを選択
-  - [OK]を押して、クローン
-  - クローンが完了したら、プロジェクトフォルダーを右クリック>TortoiseGit>Switch Branchで自分のブランチを選択
-  - ウィンドウの左の[Merge]ボタンを押す
+  - 最新版のmasterを自分のプロジェクトに結合
+    - プロジェクトをコミットしてプッシュ
+    - 資料に従って結合する
 - 3回目：SpaceShooterのチーム開発(2)
   - [手順](https://github.com/tanakaedu/dat15_fall/wiki/1%E5%B9%B404%E5%9B%9E%E7%9B%AE)
 - 2回目：SpaceShooterのチーム開発
