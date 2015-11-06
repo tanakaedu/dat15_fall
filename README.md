@@ -38,6 +38,7 @@
 
 - 4回目：GitとGitHubについて / SpaceShooter作業
   - [GitHub Desktopのインストール](https://desktop.github.com/)
+  - [WinMergeのインストール](http://www.geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html)
   - [サルでも分かるGit入門](http://www.backlog.jp/git-guide/intro/intro1_1.html)
   - TortoiseGitとGitのバージョンアップ
   - ドキュメント>Unity Projectsフォルダー内のspaceshooterを一度削除
