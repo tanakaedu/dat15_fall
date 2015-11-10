@@ -1,6 +1,15 @@
 # dat15_fall
 2015年度秋学期の関連情報。
 
+- [Google TensorFlow](http://tensorflow.org/)
+  - Googleがオープンソースで公開した機械学習システム
+  - データの流れを表す図(Data Flow Graph)を使って、計算方法を組み立てられる
+  - ある入力を、データフローグラフに従って評価
+  - 評価した結果が目的の値(小さい値とか、大きい値とか)になるように、計算式内のパラメータを調整する
+  - 上記を繰り返すことで、入力に対して、良さそうな結果を出力する
+  - 機械学習の例
+    - [TensorFlow公式 初心者のためのMNISTの学習](http://tensorflow.org/tutorials/mnist/beginners/index.md)
+    - [t-hiroyoshi Caffeで手書き数字(MNIST)の認識学習をする](http://qiita.com/t-hiroyoshi/items/2bf473fd06c352d97579)
 - [Unity県人会議イベント一覧](https://kenjin.unity3d.jp/events)
 
 ----
