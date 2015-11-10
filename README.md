@@ -10,7 +10,11 @@
   - 機械学習の例
     - [TensorFlow公式 初心者のためのMNISTの学習](http://tensorflow.org/tutorials/mnist/beginners/index.md)
     - [t-hiroyoshi Caffeで手書き数字(MNIST)の認識学習をする](http://qiita.com/t-hiroyoshi/items/2bf473fd06c352d97579)
+- [ぴよぴよ・py 強くなるためのプログラミング-様々なプログラミングコンテストとそのはじめ方-](http://cocodrips.hateblo.jp/entry/2015/10/11/114212)
+- [クックパッド開発者ブログ 総合職で入社した新卒がクックパッドでエンジニアになるまで](http://techlife.cookpad.com/entry/2015/10/30/125405?utm_content=buffere7557&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [katsew ブラウザゲーム開発で使えそうなゲームエンジンまとめ](http://qiita.com/katsew/items/bdd3be42e43e7d63d160)
 - [Unity県人会議イベント一覧](https://kenjin.unity3d.jp/events)
+
 
 ----
 
