@@ -1,6 +1,7 @@
 # dat15_fall
 2015年度秋学期の関連情報。
 
+- [マインクラフトやアナと雪の女王をモチーフに、ブラウザ上でプログラミングを学習できるcode.org](https://code.org/)
 - [Google TensorFlow](http://tensorflow.org/)
   - Googleがオープンソースで公開した機械学習システム
   - データの流れを表す図(Data Flow Graph)を使って、計算方法を組み立てられる
