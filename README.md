@@ -4,6 +4,8 @@
 - [code.org マインクラフトやアナと雪の女王をモチーフに、ブラウザ上でプログラミングを学習できる](https://code.org/)
 - [JSFIDDLE ブラウザ上でJavaScriptを書いて実行できる](https://jsfiddle.net/)
   - [Kachibito.net 紹介記事](http://kachibito.net/web-service/how-to-join-jsfiddle.html)
+- [jsdo.it 同じく、ブラウザ上でJavaScriptを書いて実行できる](http://jsdo.it/)
+  - [Gihyo jsdo.itを使ったフロントエンド開発](http://gihyo.jp/design/serial/01/jsdoit/0001?page=1)
 - [Google TensorFlow](http://tensorflow.org/)
   - Googleがオープンソースで公開した機械学習システム
   - データの流れを表す図(Data Flow Graph)を使って、計算方法を組み立てられる
