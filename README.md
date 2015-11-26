@@ -39,6 +39,7 @@
   - 作品をGitHub Pagesにアップロードする
   - 名刺の作成(QRコード)
   - [Paiza新卒](http://paiza.jp/student)に登録して、コードの練習を行う
+    - https://paiza.jp/lp/student
   - 勉強会への積極的な参加
 - HTML
 - CSS
