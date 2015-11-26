@@ -49,10 +49,14 @@
 - Unity UNET のLAN内サーバーへの自動接続
   - http://am1tanaka.hatenablog.com/entry/2015/10/09/005346
 
-# 1年生後期
-- UnityのSpaceShooterを完成させる
+# 1年生後期 5回目以降
 - UnityのSpaceShooterを改良する
 - 毎日の最後に作業をPushする
+- Code.org
+- クラス
+- GitHubでの作業
+- UNet
+- 数学
 
 ## 講義資料
 - [spaceshooter開発用リポジトリ](https://github.com/dat15-spaceshooter/spaceshooter)
