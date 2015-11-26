@@ -35,13 +35,14 @@
 
 # 2年生後期
 ## 5回目から
-- 作品をGitHub Pagesにアップロードする
-- 名刺の作成(QRコード)
+- 就活の追い込み
+  - 作品をGitHub Pagesにアップロードする
+  - 名刺の作成(QRコード)
+  - [Paiza新卒](http://paiza.jp/student)に登録して、コードの練習を行う
+  - 勉強会への積極的な参加
 - HTML
 - CSS
 - Bootstrap
-- paizaの新卒
-    - http://paiza.jp/student
 - 数学
 - Unity UNET関連
     - [ひよこのたまご 【Unity9】UNETでマルチプレイヤーなオンラインゲーム開発【UNET1】](http://hiyotama.hatenablog.com/entry/2015/07/06/153000)
