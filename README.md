@@ -1,6 +1,7 @@
 # dat15_fall
 2015年度秋学期の関連情報。
 
+- [Unity作品をGitHub Pagesで公開する](http://am1tanaka.hatenablog.com/entry/2015/11/27/115926)
 - [code.org マインクラフトやアナと雪の女王をモチーフに、ブラウザ上でプログラミングを学習できる](https://code.org/)
 - [JSFIDDLE ブラウザ上でJavaScriptを書いて実行できる](https://jsfiddle.net/)
   - [Kachibito.net 紹介記事](http://kachibito.net/web-service/how-to-join-jsfiddle.html)
