@@ -35,7 +35,7 @@
 
 
 # 2年生後期
-## 5回目から
+## 6回目以降
 - 就活の追い込み
   - 作品をGitHub Pagesにアップロードする
   - 名刺の作成(QRコード)
@@ -52,13 +52,14 @@
 - Unity UNET のLAN内サーバーへの自動接続
   - http://am1tanaka.hatenablog.com/entry/2015/10/09/005346
 
-# 1年生後期 5回目以降
+# 1年生後期 6回目以降
 - Unity公式のYoutube https://www.youtube.com/user/Unity3D
 - Unityの様々なチュートリアル https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw/videos
 - UnityのSpaceShooterを改良する
+  - 隊列が崩れるバグの修正
+  - 修正をmasterにマージ(教員が行う手順を確認)
   - 自機を狙う
     - ベクトル：向きを決める 
-      - 直接自機を狙う
       - 敵を自機の方向に向かせる
       - 乱数を加える
     - 三角関数：角度を決める
@@ -77,7 +78,11 @@
 - [spaceshooter開発用リポジトリ](https://github.com/dat15-spaceshooter/spaceshooter)
 
 ----
-
+- 5回目：自機を狙う
+  - ベクトル：向きを決める 
+    - 直接自機を狙う
+  - 隊列を出現させる(隊列が崩れて出現。原因究明は次回)
+  - ytanaka1127に成果物
 - 4回目：GitとGitHubについて / SpaceShooter作業
   - [インストール手順](http://am1tanaka.hatenablog.com/entry/2015/11/06/130120)
     - [GitHub Desktop](https://desktop.github.com/)
