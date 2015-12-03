@@ -53,6 +53,8 @@
   - http://am1tanaka.hatenablog.com/entry/2015/10/09/005346
 
 # 1年生後期 5回目以降
+- Unity公式のYoutube https://www.youtube.com/user/Unity3D
+- Unityの様々なチュートリアル https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw/videos
 - UnityのSpaceShooterを改良する
   - 自機を狙う
     - ベクトル：向きを決める 
