@@ -56,16 +56,16 @@
 - Unity公式のYoutube https://www.youtube.com/user/Unity3D
 - Unityの様々なチュートリアル https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw/videos
 - UnityのSpaceShooterを改良する
-  - 隊列が崩れるバグの修正
-  - 修正をmasterにマージ(教員が行う手順を確認)
-  - 自機を狙う
-    - ベクトル：向きを決める 
-      - 敵を自機の方向に向かせる
-      - 乱数を加える
-    - 三角関数：角度を決める
-  - 時間にランダムを加える
-  - 定速ホーミング
-  - 慣性ホーミング
+  - [x] 隊列が崩れるバグの修正
+  - [x] 修正をmasterにマージ(教員が行う手順を確認)
+  - [x] 自機を狙う
+    - [x] ベクトル：向きを決める 
+      - [x] 敵を自機の方向に向かせる
+    - [x] 三角関数：角度を決める
+    - [x] 多方向弾
+    - [x] 時間差撃ち
+  - [ ] 定角速度ホーミング
+  - [ ] 慣性ホーミング
   - 各自、自分のアカウントにForkして、自由に改造する。就職活動に利用することを前提とするので、ライセンス表記には気を付ける
 - 毎日の最後に作業をPushする
 - Code.org
@@ -78,6 +78,15 @@
 - [spaceshooter開発用リポジトリ](https://github.com/dat15-spaceshooter/spaceshooter)
 
 ----
+- 7回目：自機を狙う(3)
+  - 三角関数を使う
+  - 資料は[こちら](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer3.pptx)
+  - [ytanaka1211ブランチ](https://github.com/dat15-spaceshooter/spaceshooter/tree/ytanaka1211)に成果物
+- 6回目：自機を狙う(2)
+  - ベクトルその２
+    - 敵にプレイヤーの方向を向かせる
+  - 資料は[こちら](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer2.pptx)
+  - [ytanaka1204ブランチ](https://github.com/dat15-spaceshooter/spaceshooter/tree/ytanaka-1204)に成果物
 - 5回目：自機を狙う
   - ベクトル：向きを決める 
     - 直接自機を狙う
