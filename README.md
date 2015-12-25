@@ -1,6 +1,8 @@
 # dat15_fall
 2015年度秋学期の関連情報。
 
+- [国立情報学研究所 GRACEセンター/先端ICTセンター 長久勝 GameJamCanvas](http://www.slideshare.net/mnagaku/gamejamcanvs?ref=http://www.igda.jp/?p=2507)
+  - 短時間で成果を出すイベントで失敗を減らすための情報共有手段などについてのスライド
 - [Unity作品をGitHub Pagesで公開する](http://am1tanaka.hatenablog.com/entry/2015/11/27/115926)
 - [code.org マインクラフトやアナと雪の女王をモチーフに、ブラウザ上でプログラミングを学習できる](https://code.org/)
 - [JSFIDDLE ブラウザ上でJavaScriptを書いて実行できる](https://jsfiddle.net/)
@@ -64,7 +66,7 @@
     - [x] 三角関数：角度を決める
     - [x] 多方向弾
     - [x] 時間差撃ち
-  - [ ] 定角速度ホーミング
+  - [x] 定角速度ホーミング
   - [ ] 慣性ホーミング
   - 各自、自分のアカウントにForkして、自由に改造する。就職活動に利用することを前提とするので、ライセンス表記には気を付ける
 - 毎日の最後に作業をPushする
