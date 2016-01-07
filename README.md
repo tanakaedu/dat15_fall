@@ -79,9 +79,14 @@
 
 ## 講義資料
 - [spaceshooter開発用リポジトリ](https://github.com/dat15-spaceshooter/spaceshooter)
-- [8回目資料](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer4.pptx)
+- 9回目資料
+  - 9回目資料
+  - [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)
 
 ----
+
+- 8回目：自機を狙う(4)定角速度ホーミング
+  - [8回目資料](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer4.pptx)
 - 7回目：自機を狙う(3)
   - 三角関数を使う
   - 資料は[こちら](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer3.pptx)
