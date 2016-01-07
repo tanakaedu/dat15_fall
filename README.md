@@ -80,7 +80,7 @@
 ## 講義資料
 - [spaceshooter開発用リポジトリ](https://github.com/dat15-spaceshooter/spaceshooter)
 - 9回目資料
-  - 9回目資料
+  - [9回目 慣性ホーミング](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer5.pptx?raw=true)
   - [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)
 
 ----
