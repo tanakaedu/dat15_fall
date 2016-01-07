@@ -2,7 +2,7 @@
 2015年度秋学期の関連情報。
 
 - [2年生](https://github.com/tanakaedu/dat15_fall#2年生後期)
-- [1年生](https://github.com/tanakaedu/dat15_fall#1年生後期)
+- [1年生](https://github.com/tanakaedu/dat15_fall#1年生後期-6回目以降)
 
 
 ## リンク集
