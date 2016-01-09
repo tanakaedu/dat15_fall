@@ -73,7 +73,7 @@
     - [x] 多方向弾
     - [x] 時間差撃ち
   - [x] 定角速度ホーミング
-  - [ ] 慣性ホーミング
+  - [x] 慣性ホーミング
   - 各自、自分のアカウントにForkして、自由に改造する。就職活動に利用することを前提とするので、ライセンス表記には気を付ける
 - 毎日の最後に作業をPushする
 - Code.org
@@ -84,12 +84,16 @@
 
 ## 講義資料
 - [spaceshooter開発用リポジトリ](https://github.com/dat15-spaceshooter/spaceshooter)
-- 9回目資料
-  - [9回目 慣性ホーミング](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer5.pptx?raw=true)
+- 10回目
+  - C#でクラス設計
+    - キャラクターの保持
+    - ポリモーフィズムによるif文の削除
   - [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)
 
 ----
 
+- 9回目資料
+  - [9回目 慣性ホーミング](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer5.pptx?raw=true)
 - 8回目：自機を狙う(4)定角速度ホーミング
   - [8回目資料](https://github.com/dat15-spaceshooter/spaceshooter/blob/master/Docs/spaceshooter-shotplayer4.pptx)
 - 7回目：自機を狙う(3)
