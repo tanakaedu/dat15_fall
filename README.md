@@ -86,6 +86,7 @@
 - 10回目
   - C#でクラス設計
     - [クラス練習用リポジトリー ChrMoveClassPrac](https://github.com/tanakaedu/ChrMoveClassPrac)
+    - [資料](https://github.com/tanakaedu/ChrMoveClassPrac/blob/master/texts/%E3%82%AF%E3%83%A9%E3%82%B9%E7%B7%B4%E7%BF%92.pptx?raw=true)
   - [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)
 
 ----
