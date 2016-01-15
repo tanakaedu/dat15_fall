@@ -89,6 +89,15 @@
   - [クラス練習用リポジトリー ChrMoveClassPrac](https://github.com/tanakaedu/ChrMoveClassPrac) 右クリックして新しいタブで開く
   - [資料](https://github.com/tanakaedu/ChrMoveClassPrac/blob/master/texts/%E3%82%AF%E3%83%A9%E3%82%B9%E7%B7%B4%E7%BF%92.pptx?raw=true)
   - [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)
+### GitHubにUnityのプロジェクトを新規に作成する手順
+1. GitHub Desktopの左上の[+]を押して、[Create]を選択
+2. リポジトリ名を入力して、[Git ignore]欄を[Unity]にして、[Create repository]を押す
+3. Unityを起動
+4. [NEW]を押して、プロジェクト名を半角英数で入力
+5. [Location]の右端の[...]を押して、作成したGitHubリポジトリのフォルダ(ドキュメント>GitHub>リポジトリ名)を選択
+6. プロジェクトを作成
+7. GitHubのリポジトリフォルダーを開いて、.gitignoreファイルをコピーして、Unityのプロジェクトフォルダーに貼り付ける
+以上で完了。あとは作業を進めて、適宜、コミット(Commit)と同期(Sync、あるいはPublish)を行う
 
 ----
 
