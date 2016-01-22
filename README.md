@@ -65,18 +65,12 @@
 - Unityの様々なチュートリアル https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw/videos
 - 毎日の最後に作業をPushする
 - Code.org
-- クラス
 - GitHubでの作業
 - UNet
 - 数学
 
 ## 講義資料
-- 11回目:C#でクラス設計2回目(重力キャラクターの作成)
-  - [クラス練習用リポジトリー ChrMoveClassPrac](https://github.com/tanakaedu/ChrMoveClassPrac) 右クリックして新しいタブで開く
-  - [クラス練習-完成版](https://github.com/tanakaedu/ChrMoveClassPrac/tree/temp160122_3)
-- 10回目:C#でクラス設計
-  - [クラス練習用リポジトリー ChrMoveClassPrac](https://github.com/tanakaedu/ChrMoveClassPrac) 右クリックして新しいタブで開く
-  - [資料](https://github.com/tanakaedu/ChrMoveClassPrac/blob/master/texts/%E3%82%AF%E3%83%A9%E3%82%B9%E7%B7%B4%E7%BF%92.pptx?raw=true)
+- 12回目：UNet
   - [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)
 
 ### GitHubにUnityのプロジェクトを新規に作成する手順
@@ -94,6 +88,15 @@
 
 ----
 
+### オブジェクト指向
+- 11回目:C#でクラス設計2回目(重力キャラクターの作成)
+  - [クラス練習用リポジトリー ChrMoveClassPrac](https://github.com/tanakaedu/ChrMoveClassPrac) 右クリックして新しいタブで開く
+  - [クラス練習-完成版](https://github.com/tanakaedu/ChrMoveClassPrac/tree/temp160122_3)
+- 10回目:C#でクラス設計
+  - [クラス練習用リポジトリー ChrMoveClassPrac](https://github.com/tanakaedu/ChrMoveClassPrac) 右クリックして新しいタブで開く
+  - [資料](https://github.com/tanakaedu/ChrMoveClassPrac/blob/master/texts/%E3%82%AF%E3%83%A9%E3%82%B9%E7%B7%B4%E7%BF%92.pptx?raw=true)
+
+### Spaceshooter
 - [spaceshooter開発用リポジトリ](https://github.com/dat15-spaceshooter/spaceshooter)
 - 1～9回目:UnityのSpaceShooterを改良する
   - [x] 隊列が崩れるバグの修正
