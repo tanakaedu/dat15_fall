@@ -142,6 +142,8 @@
   - [敵、更なる障害物、背景のスクロールなど](http://unity3d.com/jp/learn/tutorials/modules/intermediate/live-training-archive/extending-space-shooter?playlist=17147)
 
 # リンク
+- [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)
+- [テラシュールブログ](http://tsubakit1.hateblo.jp/)
 - 新卒向けのITエンジニア就活用サービス paiza新卒
     - http://paiza.jp/student
 - PHP学習環境 paiza learning
