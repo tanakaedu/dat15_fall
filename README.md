@@ -73,6 +73,7 @@
 ## 講義資料
 - 11回目:C#でクラス設計2回目(重力キャラクターの作成)
   - [クラス練習用リポジトリー ChrMoveClassPrac](https://github.com/tanakaedu/ChrMoveClassPrac) 右クリックして新しいタブで開く
+  - [クラス練習-完成版](https://github.com/tanakaedu/ChrMoveClassPrac/tree/temp160122_3)
 - 10回目:C#でクラス設計
   - [クラス練習用リポジトリー ChrMoveClassPrac](https://github.com/tanakaedu/ChrMoveClassPrac) 右クリックして新しいタブで開く
   - [資料](https://github.com/tanakaedu/ChrMoveClassPrac/blob/master/texts/%E3%82%AF%E3%83%A9%E3%82%B9%E7%B7%B4%E7%BF%92.pptx?raw=true)
