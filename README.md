@@ -70,7 +70,7 @@
 - 数学
 
 ## 講義資料
-- 12回目：UNet
+- 12回目：オブジェクト指向の演習
   - [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)
 
 ### GitHubにUnityのプロジェクトを新規に作成する手順
