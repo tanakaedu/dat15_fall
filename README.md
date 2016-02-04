@@ -1,6 +1,32 @@
 # dat15_fall
 2015年度秋学期の関連情報。
 
+# 1年生の最終課題
+以下の3つを最終課題とする。
+
+## 課題1
+12回目(1/29)にやった[オブジェクト指向の演習](https://github.com/tanakaedu/obj-prac)を完成させて、GitHubにSyncする。
+
+## 課題2
+[ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)などから、Unityのチュートリアルを一つ選んで自分で完成させる。
+
+## 課題3
+課題2で作成したUnityのプロジェクトを、GitHub Pages上で公開する。公開手順は以下を参考のこと。
+- http://am1tanaka.hatenablog.com/entry/2015/11/27/115926
+
+
+## 締め切り
+- 2/17(水) 23:59まで
+
+## 提出方法
+- GitHubの自分のアカウントにコミットしてSyncする
+
+## 注意点
+- 未完成でも構わないので、GitHubで公開して手順を確認しておくこと。その過程で分からない操作があったら講義内で質問して解決する。
+
+
+----
+
 - [2年生](https://github.com/tanakaedu/dat15_fall#2年生後期)
 - [1年生](https://github.com/tanakaedu/dat15_fall#1年生後期-6回目以降)
 
