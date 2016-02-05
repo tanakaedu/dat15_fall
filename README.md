@@ -7,6 +7,10 @@
 ## 課題1
 12回目(1/29)にやった[オブジェクト指向の演習](https://github.com/tanakaedu/obj-prac)を完成させて、GitHubにSyncする。
 
+### ヒント
+11回目の講義で作成した、３種類のキャラクターをクラス化する手順のリポジトリ。
+- https://github.com/tanakaedu/ChrMoveClassPrac
+
 ## 課題2
 [ひよこのたまご チュートリアル一覧](http://hiyotama.hatenablog.com/entry/tutorials)などから、Unityのチュートリアルを一つ選んで完成させる。
 
