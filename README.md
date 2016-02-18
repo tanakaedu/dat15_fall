@@ -55,6 +55,9 @@ Unity用のプロジェクトをGitHubに登録する手順は、以下を参照
 - GitHubへの登録が完了したら、適宜、コミットとSyncを行いつつ、完成まで作業を進める
 
 
+# GitHub Pagesが公開されない
+- http://sakashushu.blog.so-net.ne.jp/2014-01-15
+
 ----
 
 - [2年生](https://github.com/tanakaedu/dat15_fall#2年生後期)
